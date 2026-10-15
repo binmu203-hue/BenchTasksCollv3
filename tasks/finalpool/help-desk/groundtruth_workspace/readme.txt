@@ -1,1 +1,1 @@
-Groundtruth data for help-desk
+Groundtruth for help-desk

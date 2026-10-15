@@ -1,1 +1,1 @@
-Initial workspace for log-analyzer
+Initial state for log-analyzer

@@ -1,1 +1,1 @@
-Groundtruth data for customer-feedback-processor
+Groundtruth for customer-feedback-processor

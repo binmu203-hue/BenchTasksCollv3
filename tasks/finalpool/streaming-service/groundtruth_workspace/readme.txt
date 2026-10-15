@@ -1,1 +1,1 @@
-Groundtruth data for streaming-service
+Groundtruth for streaming-service

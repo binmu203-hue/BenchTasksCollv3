@@ -1,1 +1,1 @@
-Groundtruth data for inventory-management
+Groundtruth for inventory-management

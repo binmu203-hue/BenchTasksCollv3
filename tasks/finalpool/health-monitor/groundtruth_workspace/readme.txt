@@ -1,1 +1,1 @@
-Groundtruth data for health-monitor
+Groundtruth for health-monitor

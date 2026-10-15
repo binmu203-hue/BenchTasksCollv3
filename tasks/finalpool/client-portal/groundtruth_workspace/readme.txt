@@ -1,1 +1,1 @@
-Groundtruth data for client-portal
+Groundtruth for client-portal

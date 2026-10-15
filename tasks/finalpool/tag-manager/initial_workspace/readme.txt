@@ -1,1 +1,1 @@
-Initial workspace for tag-manager
+Initial state for tag-manager

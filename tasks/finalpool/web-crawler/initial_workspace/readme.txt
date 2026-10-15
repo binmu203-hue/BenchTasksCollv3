@@ -1,1 +1,1 @@
-Initial workspace for web-crawler
+Initial state for web-crawler

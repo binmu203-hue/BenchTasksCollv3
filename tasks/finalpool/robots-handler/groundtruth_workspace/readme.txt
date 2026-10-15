@@ -1,1 +1,1 @@
-Groundtruth data for robots-handler
+Groundtruth for robots-handler

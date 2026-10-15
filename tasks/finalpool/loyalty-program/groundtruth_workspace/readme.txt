@@ -1,1 +1,1 @@
-Groundtruth data for loyalty-program
+Groundtruth for loyalty-program

@@ -1,1 +1,1 @@
-Initial workspace for media-organizer
+Initial state for media-organizer

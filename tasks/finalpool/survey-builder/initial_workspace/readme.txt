@@ -1,1 +1,1 @@
-Initial workspace for survey-builder
+Initial state for survey-builder

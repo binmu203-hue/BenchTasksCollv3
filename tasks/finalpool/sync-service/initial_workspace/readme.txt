@@ -1,1 +1,1 @@
-Initial workspace for sync-service
+Initial state for sync-service

@@ -1,1 +1,1 @@
-Initial workspace for robots-handler
+Initial state for robots-handler
